@@ -1,3 +1,2 @@
 # personal-web-site
-This my official personal web site
-prueba 5
+This is a CI Testing with Docker, Jenkins and Newman for automation testing in a DevOps env.
